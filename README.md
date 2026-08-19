@@ -1,5 +1,7 @@
 # Between Emissions
 
+[![Join the Between Emissions Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/w65qgCpUgR)
+
 Between Emissions is a work-in-progress project with two separate product lines:
 
 - a modular project for S.T.A.L.K.E.R. Anomaly; and
@@ -36,5 +38,6 @@ explicitly in this repository.
 - [Security](SECURITY.md)
 - [Licensing](LICENSE)
 - [Trademarks](TRADEMARKS.md)
+- [Discord community](https://discord.gg/w65qgCpUgR)
 
 Contact: studio@ottergamestudio.com
